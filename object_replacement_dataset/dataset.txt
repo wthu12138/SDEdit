@@ -1,0 +1,8 @@
+1<>A llama toy standing next to a potted plant in a cozy room<>A floor lamp standing next to a potted plant in a cozy room
+2<>A wolf stands in a forest<>A rock sits in a forest
+3<>A cluster of coconuts attached to a palm tree<>A cluster of lanterns on a palm tree
+4<>A person holding a handbag<>A person holding a box
+5<>A car with surfboards on top<>A car with bushes on top
+6<>A road sign stands beside a rural highway<>A mailbox stands beside the rural highway
+7<>A white mug filled with yellow dandelions on a table<>A white mug filled with cute puppies on the table
+8<>A red cabin on a rocky outcrop by the sea<>A blue dome on a rocky outcrop by the sea

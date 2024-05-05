@@ -1,0 +1,6 @@
+1<>A kitten sitting on a sofa<>A metal kitten sitting on a sofa
+2<>A white horse running in a field<>A statue of a horse running in a field
+3<>A chocolate cake on a plate with a fork<>A plastic chocolate cake on a plate with a fork
+4<>A person carrying a leather handbag with a fluffy keychain<>A person carrying a glass handbag with a fluffy keychain
+5<>A rose in bloom<>A wooden rose in bloom
+6<>A black church<>An ice church

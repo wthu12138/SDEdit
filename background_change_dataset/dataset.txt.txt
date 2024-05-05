@@ -1,0 +1,8 @@
+1<>A man stands on mountains<>A man stands at a seaside
+2<>A person sits on a desert<>A person sits in a bedroom
+3<>A person stands on a snowy mountain range<>A person stands in a tropical rainforest
+4<>A woman leans on a wooden post at a field<>A woman leans on a wooden post at a street
+5<>A person sits on a paddleboard on a lake<>A person sits on a paddleboard on a desert
+6<>A white fox sitting on a snowland<>A white fox sitting on a beach
+7<>Several Rhinoceroses on an African plain<>Several Rhinoceroses on Mars
+8<>A silver car parked at a city street<>A silver car parked at a dense jungle

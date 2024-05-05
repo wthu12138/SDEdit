@@ -1,0 +1,8 @@
+1<>A deserted highway near snow mountains under a partly cloudy sky<>A red car on a deserted highway near snow mountains under a partly cloudy sky
+2<>A tranquil lake surrounded by dense forests and mountains under a clear blue sky<>A canoe on the tranquil lake surrounded by dense forests and mountains under a clear blue sky
+3<>A plant near a lamp on a table with a wooden clock on the wall<>A book on the table near a plant and a lamp with a wooden clock on the wall
+4<>A bench under a tree with fallen leaves on the ground and a historic building in the background<>A doll on the bench under a tree with fallen leaves on the ground and a historic building in the background
+5<>An empty room with hardwood floors, white walls, and a large window showing trees outside<>A blue sofa in the center of an room with hardwood floors, white walls, and a large window showing trees outside
+6<>An orange cat sitting attentively on a red-painted curb against a white background<>A butterfly near an orange cat sitting attentively on a red-painted curb against a white background
+7<>A stack of cookies on a wooden board with a gray background<>A glass of milk next to a stack of cookies on a wooden board with a gray background
+8<>A camel walking on a desert<>A flamingo standing on a camel walking on a desert

@@ -1,0 +1,8 @@
+1<>A wooden bench in front of a lush green hill with trees<>A lush green hill with trees
+2<>A bicycle with a basket parked against a rustic wall with vines<>A rustic wall with vines
+3<>A cup of coffee on an unmade bed<>An unmade bed
+4<>A person sitting at the seaside with rocks<>A seaside with rocks
+5<>A cup of coffee and a pair of glasses near an open book<>An open book
+6<>A person with an umbrella walking across a busy city street<>A busy city street
+7<>A wooden house with a dock on a mountain lake<>A mountain lake
+8<>Four women in long dresses walk down a hallway<>A hallway

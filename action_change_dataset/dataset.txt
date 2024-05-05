@@ -1,0 +1,4 @@
+1<>A white horse standing in the grass<>A white horse running in the grass
+2<>A polar bear standing beside the sea<>A polar bear raising its hand
+3<>A dog standing on the ground<>A dog jumping on the ground
+4<>A bird on the tree<>A bird is flying over the tree
