@@ -103,15 +103,15 @@ def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--input_path",
                         type=str,
-                        default='./object_replacement_dataset/dataset.txt',
+                        default='.\\action_change_dataset\dataset.txt',
                         help="text file containing image paths and prompts")
     parser.add_argument("--data_path",
                         type=str,
-                        default='./object_replacement_dataset/data',
+                        default='.\\action_change_dataset\data',
                         help="folder to load data")
     parser.add_argument("--output_path",
                         type=str,
-                        default='./output',
+                        default='.\output',
                         help="folder to save output")
     parser.add_argument("--save_original",
                         type=bool,
